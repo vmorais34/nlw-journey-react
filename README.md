@@ -1,6 +1,6 @@
 # Project developed in the event NLW Journey by Rocketseat 🚀
 
-- init: 11.07
+- init: 11.07 (Lesson 1)
 - Vinicius Morais
 
 [Figma](/)
@@ -20,7 +20,7 @@
 - [ ] - Subir Prod no Github
 
 
-- Lesson 2
+### Lesson 2 12.07
 
 npm i react-router-dom
 
@@ -47,5 +47,7 @@ npm i react-router-dom
   - Navigate Function - useNavigate()
 
 
--- we start to separe the components in 18:30 by significated
+- we start to separe the components in 18:30 by significated
  - we started here this time
+ - desestructuring props with {...prop1,..prop2}
+
