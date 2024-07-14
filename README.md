@@ -51,3 +51,14 @@ npm i react-router-dom
  - we started here this time
  - desestructuring props with {...prop1,..prop2}
 
+33:28 - 1h08
+- O resto da aula criando a segunda pagina
+- criando o button com tailwind variants
+
+tv({
+  base: quais as classes que vao ser iguais entre todos os btns,
+  variant: {
+    primary: "classes"
+  }
+  default: qual vai ser o padrao caso não seja declarado
+})
